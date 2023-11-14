@@ -7,4 +7,4 @@ Dependency:
   - MongoDB
   - Beanie
   - WebSockets
-  - etc.
+  - Redis
